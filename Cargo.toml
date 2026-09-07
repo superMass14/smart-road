@@ -1,0 +1,10 @@
+[package]
+name = "smart-road"
+version = "0.1.0"
+edition = "2021"
+
+[dependencies]
+sdl2 = { version = "*", features = ["image", "ttf"] }
+car = {path = "car"}
+event = {path = "event"}
+config = {path = "config"}

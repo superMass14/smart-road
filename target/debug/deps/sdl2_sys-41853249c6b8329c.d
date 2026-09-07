@@ -1,0 +1,12 @@
+/home/supermass/Desktop/deploy/smart-road/target/debug/deps/libsdl2_sys-41853249c6b8329c.rmeta: /home/supermass/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/sdl2-sys-0.34.5/src/lib.rs /home/supermass/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/sdl2-sys-0.34.5/src/image.rs /home/supermass/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/sdl2-sys-0.34.5/src/ttf.rs /home/supermass/Desktop/deploy/smart-road/target/debug/build/sdl2-sys-da94728131970f84/out/sdl_bindings.rs /home/supermass/Desktop/deploy/smart-road/target/debug/build/sdl2-sys-da94728131970f84/out/sdl_image_bindings.rs /home/supermass/Desktop/deploy/smart-road/target/debug/build/sdl2-sys-da94728131970f84/out/sdl_ttf_bindings.rs
+
+/home/supermass/Desktop/deploy/smart-road/target/debug/deps/sdl2_sys-41853249c6b8329c.d: /home/supermass/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/sdl2-sys-0.34.5/src/lib.rs /home/supermass/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/sdl2-sys-0.34.5/src/image.rs /home/supermass/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/sdl2-sys-0.34.5/src/ttf.rs /home/supermass/Desktop/deploy/smart-road/target/debug/build/sdl2-sys-da94728131970f84/out/sdl_bindings.rs /home/supermass/Desktop/deploy/smart-road/target/debug/build/sdl2-sys-da94728131970f84/out/sdl_image_bindings.rs /home/supermass/Desktop/deploy/smart-road/target/debug/build/sdl2-sys-da94728131970f84/out/sdl_ttf_bindings.rs
+
+/home/supermass/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/sdl2-sys-0.34.5/src/lib.rs:
+/home/supermass/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/sdl2-sys-0.34.5/src/image.rs:
+/home/supermass/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/sdl2-sys-0.34.5/src/ttf.rs:
+/home/supermass/Desktop/deploy/smart-road/target/debug/build/sdl2-sys-da94728131970f84/out/sdl_bindings.rs:
+/home/supermass/Desktop/deploy/smart-road/target/debug/build/sdl2-sys-da94728131970f84/out/sdl_image_bindings.rs:
+/home/supermass/Desktop/deploy/smart-road/target/debug/build/sdl2-sys-da94728131970f84/out/sdl_ttf_bindings.rs:
+
+# env-dep:OUT_DIR=/home/supermass/Desktop/deploy/smart-road/target/debug/build/sdl2-sys-da94728131970f84/out
